@@ -51,7 +51,7 @@ The audit policy command-line tool can be used to:
 -   Set and query auditing options.
 -   Set and query the security descriptor used to delegate access to an audit policy.
 -   Report or back up an audit policy to a comma-separated value (CSV) text file.
--   Load an audit policy from a CSV text file.
+-   Load an audit policy from a CSV (Comma Separated Values) text file.
 -   Configure global resource SACLs.
 
 #### Additional references
